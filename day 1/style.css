@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+div{
+    font-size: larger;
+    width: 200px;
+    padding: 10px;
+    color: blueviolet;
+}
+ul{
+    display: inline-flex;
+    list-style: none;
+    background-color: beige;
+}
+ul li{
+    width: 90px;
+    padding: 10px;
+    height: 50px;
+    
+}
+ul li :hover{
+    background-color: orange;
+    transition: 0.3 ease-in-out;
+}
+img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.simple{
+    color: brown;
+    
+    
+}
